@@ -10,10 +10,13 @@ sections:
     subtitle: >-
       The possible workarounds to AUTOMATE marketing flows enabling ROI while
       the OWNER's asleep
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Hey, you need some rest... 
+
+      Your site, your products deserve to thrive online deserve to thrive online
+      — that's what my niche is 
+
+
     actions:
       - label: Get started
         altText: ''
