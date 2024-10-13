@@ -7,7 +7,9 @@ sections:
       text: THRIV HUB
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      The possible workarounds to AUTOMATE marketing flows enabling ROI while
+      the OWNER's asleep
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
