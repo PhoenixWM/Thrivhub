@@ -22,7 +22,7 @@ sections:
         label: See open positions
         url: /
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: primary
     colors: bg-neutral-fg-dark
     backgroundImage:
