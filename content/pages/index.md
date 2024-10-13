@@ -28,7 +28,9 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/Dark Blue Illustrative Digital Marketing Agency Instagram Post
+        (2).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
