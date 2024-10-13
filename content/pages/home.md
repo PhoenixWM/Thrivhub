@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Get the Possible Workarounds to automate
+    subtitle: "Get\_API+AI Trainee ⦿ The possible workarounds to AUTOMATE marketing flows enabling ROI ⦿ Building functional sites to HOST & DO the SALE of digital products while the OWNER's asleep"
     text: >
       There are many variations of passages of Lorem Ipsum available, but the
       majority have suffered alteration in some form, by injected humour, or
